@@ -5,9 +5,9 @@ This project is Manage warehouse program. i want develop it for help in CharityS
 Developed from a project that is my freelance work.It has the code of development and the old screen of sales in other jobs inside.
 You can use it for other develop.
 # installation
-#Visual Studio 2017,2013,2010
+Visual Studio 2017,2013,2010
 link : https://visualstudio.microsoft.com/downloads/
-#Access Database from microsoft office
+Access Database from microsoft office
 link https://products.office.com/th-th/home
 Once you have installed everything and run it.It will Error Microsoft OLEDB....
 you must install 
