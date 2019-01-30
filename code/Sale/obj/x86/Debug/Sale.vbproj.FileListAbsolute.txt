@@ -1,0 +1,326 @@
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\bin\Debug\Sale.exe
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\bin\Debug\Sale.pdb
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\bin\Debug\Sale.xml
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.Resources.resources
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.exe
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.xml
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.pdb
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.Fmenu.resources
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+C:\Users\Ultimate\AppData\Local\Temporary Projects\Sale\obj\x86\Debug\Sale.Faddpro_wholesale.resources
+D:\งาน\12 (รอ) 4000\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\12 (รอ) 4000\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\12 (รอ) 4000\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\12 (กำลังทำ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\12 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\11 (เสร็จ) 4000\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\35 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\33 (กำลัง) 500+4500\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\33 (กำลัง) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\33 (เสร็จ) 500+500+4000\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.exe
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.xml
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.pdb
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\bin\Debug\Sale.exe
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\bin\Debug\Sale.pdb
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\bin\Debug\Sale.xml
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fmain.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Resources.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+D:\งาน\34 (เสร็จ) 500\Sale\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fmain.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Resources.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.Cache
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\Sale.login.resources
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\bin\Debug\PJ shop.exe.manifest
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\bin\Debug\PJ shop.application
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\bin\Debug\PJ shop.exe
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\bin\Debug\PJ shop.pdb
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\bin\Debug\PJ shop.xml
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.exe.manifest
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.application
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.exe
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.xml
+C:\Users\eem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.pdb
+C:\Users\eemeem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.exe
+C:\Users\eemeem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.xml
+C:\Users\eemeem\Desktop\งานฟรี\New folder\ต้นฉลบับ\code\Sale\obj\x86\Debug\PJ shop.pdb
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\bin\Debug\PJ shop.exe.manifest
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\bin\Debug\PJ shop.application
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\bin\Debug\PJ shop.exe
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\bin\Debug\PJ shop.pdb
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\bin\Debug\PJ shop.xml
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.vbprojAssemblyReference.cache
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fmain.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.login.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Resources.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.cache
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\Sale.vbproj.CoreCompileInputs.cache
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\PJ shop.exe.manifest
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\PJ shop.application
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\PJ shop.exe
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\PJ shop.xml
+C:\Users\eemeem\Desktop\Projectจบ\code\Sale\obj\x86\Debug\PJ shop.pdb
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\bin\Debug\PJ shop.exe.manifest
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\bin\Debug\PJ shop.application
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\bin\Debug\PJ shop.exe
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\bin\Debug\PJ shop.pdb
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\bin\Debug\PJ shop.xml
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.vbprojAssemblyReference.cache
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fcustomer.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fmain.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fmenu_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fmenu_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.login.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Resources.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fsale_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fsale_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fpro_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fpro_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fcircu_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fcircu_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fbar_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fbar_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fbalance_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fbalance_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Faddpro_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Faddpro_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fedit_retail.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.Fedit_whole.resources
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.vbproj.GenerateResource.cache
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\Sale.vbproj.CoreCompileInputs.cache
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\PJ shop.exe.manifest
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\PJ shop.application
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\PJ shop.exe
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\PJ shop.xml
+C:\Users\eemeem\source\repos\CharityShopManageMent\code\Sale\obj\x86\Debug\PJ shop.pdb

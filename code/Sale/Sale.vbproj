@@ -1,0 +1,852 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C49ABBB5-8D5B-4209-A881-E2272E08DDB3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sale.My.MyApplication</StartupObject>
+    <RootNamespace>Sale</RootNamespace>
+    <AssemblyName>PJ shop</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\eem\Desktop\sayhi\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PJ shop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PJ shop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3A58001C2464B4EE3C89A11F4625800F414CEC33</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Sale_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>black-car-16.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>PJ shop.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>PJ shop.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fcustomer.Designer.vb">
+      <DependentUpon>Fcustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fcustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fmain.Designer.vb">
+      <DependentUpon>Fmain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fmain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fmenu_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fmenu_retail.Designer.vb">
+      <DependentUpon>Fmenu_retail.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fmenu_whole.Designer.vb">
+      <DependentUpon>Fmenu_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fmenu_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ขายสินค้า\Fsale_retail.Designer.vb">
+      <DependentUpon>Fsale_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ขายสินค้า\Fsale_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ขายสินค้า\Fsale_whole.Designer.vb">
+      <DependentUpon>Fsale_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ขายสินค้า\Fsale_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ข้อมูลสินค้า\Fpro_retail.Designer.vb">
+      <DependentUpon>Fpro_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ข้อมูลสินค้า\Fpro_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ข้อมูลสินค้า\Fpro_whole.Designer.vb">
+      <DependentUpon>Fpro_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ข้อมูลสินค้า\Fpro_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ยอดขาย\Fcircu_retail.Designer.vb">
+      <DependentUpon>Fcircu_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ยอดขาย\Fcircu_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ยอดขาย\Fcircu_whole.Designer.vb">
+      <DependentUpon>Fcircu_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ยอดขาย\Fcircu_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="สร้างบาร์โค้ด\Fbar_retail.Designer.vb">
+      <DependentUpon>Fbar_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="สร้างบาร์โค้ด\Fbar_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="สร้างบาร์โค้ด\Fbar_whole.Designer.vb">
+      <DependentUpon>Fbar_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="สร้างบาร์โค้ด\Fbar_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="สินค้าคงเหลือ\Fbalance_retail.Designer.vb">
+      <DependentUpon>Fbalance_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="สินค้าคงเหลือ\Fbalance_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="สินค้าคงเหลือ\Fbalance_whole.Designer.vb">
+      <DependentUpon>Fbalance_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="สินค้าคงเหลือ\Fbalance_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="เพิ่มรายการสินค้า\Faddpro_retail.Designer.vb">
+      <DependentUpon>Faddpro_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="เพิ่มรายการสินค้า\Faddpro_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="เพิ่มรายการสินค้า\Faddpro_whole.Designer.vb">
+      <DependentUpon>Faddpro_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="เพิ่มรายการสินค้า\Faddpro_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="เพิ่มสินค้า\Fedit_whole.Designer.vb">
+      <DependentUpon>Fedit_whole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="เพิ่มสินค้า\Fedit_whole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="เพิ่มสินค้า\Fedit_retail.Designer.vb">
+      <DependentUpon>Fedit_retail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="เพิ่มสินค้า\Fedit_retail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Fcustomer.resx">
+      <DependentUpon>Fcustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fmain.resx">
+      <DependentUpon>Fmain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fmenu_retail.resx">
+      <DependentUpon>Fmenu_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fmenu_whole.resx">
+      <DependentUpon>Fmenu_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ขายสินค้า\Fsale_retail.resx">
+      <DependentUpon>Fsale_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ขายสินค้า\Fsale_whole.resx">
+      <DependentUpon>Fsale_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ข้อมูลสินค้า\Fpro_retail.resx">
+      <DependentUpon>Fpro_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ข้อมูลสินค้า\Fpro_whole.resx">
+      <DependentUpon>Fpro_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ยอดขาย\Fcircu_retail.resx">
+      <DependentUpon>Fcircu_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ยอดขาย\Fcircu_whole.resx">
+      <DependentUpon>Fcircu_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="สร้างบาร์โค้ด\Fbar_retail.resx">
+      <DependentUpon>Fbar_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="สร้างบาร์โค้ด\Fbar_whole.resx">
+      <DependentUpon>Fbar_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="สินค้าคงเหลือ\Fbalance_retail.resx">
+      <DependentUpon>Fbalance_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="สินค้าคงเหลือ\Fbalance_whole.resx">
+      <DependentUpon>Fbalance_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="เพิ่มรายการสินค้า\Faddpro_retail.resx">
+      <DependentUpon>Faddpro_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="เพิ่มรายการสินค้า\Faddpro_whole.resx">
+      <DependentUpon>Faddpro_whole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="เพิ่มสินค้า\Fedit_retail.resx">
+      <DependentUpon>Fedit_retail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="เพิ่มสินค้า\Fedit_whole.resx">
+      <DependentUpon>Fedit_whole.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Sale_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\92.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\93.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\can.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\can1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\can2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\252.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conf1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ff1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ff2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\777.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ww.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\em.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addkist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1492443816_sale1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\head1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_Grayscale_logo_on_transparent_132x73.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\008-buy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009-buy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009-buy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\008-buy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001-login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001-cart1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ยอดขาย7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\เพิ่มสินค้า.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ขายสินค้า.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\สร้างบาร์.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\สินค้าคงเหลือ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\เพิ่มรายการ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="black-car-16.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
